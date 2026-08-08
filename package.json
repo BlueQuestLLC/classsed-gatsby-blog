@@ -7,7 +7,7 @@
   "dependencies": {
     "bootstrap": "^4.2.1",
     "disqus-react": "^1.0.5",
-    "gatsby": "^2.0.75",
+    "gatsby": "^5.16.1",
     "gatsby-image": "^2.0.20",
     "gatsby-plugin-catch-links": "^2.0.9",
     "gatsby-plugin-manifest": "^2.0.9",
@@ -16,7 +16,7 @@
     "gatsby-plugin-sass": "^2.0.7",
     "gatsby-plugin-sharp": "^2.0.14",
     "gatsby-source-filesystem": "^2.0.8",
-    "gatsby-transformer-remark": "^2.1.17",
+    "gatsby-transformer-remark": "^6.16.0",
     "gatsby-transformer-sharp": "^2.1.8",
     "lodash": "^4.17.11",
     "node-sass": "^4.11.0",
